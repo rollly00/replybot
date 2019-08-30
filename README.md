@@ -1,2 +1,2 @@
 # replybot
-Simple bot for reply messages from bot to private/public channel
+Simple bot for send messages from bot to private/public channel
